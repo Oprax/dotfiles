@@ -1,0 +1,9 @@
+.ssh/
+.gnupg/
+.bin/
+.config/sublime-text-3/
+.vim/
+.bash*
+.wakatime.cfg
+.zshrc
+.gitconfig
