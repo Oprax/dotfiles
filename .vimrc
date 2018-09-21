@@ -1,4 +1,3 @@
-filetype plugin indent on
 syntax on
 
 set mouse-=a
@@ -15,10 +14,3 @@ set smarttab
 set undolevels=1000
 set history=1000
 set scrolloff=3
-
-call plug#begin('~/.vim/plugged')
-
-Plug 'chr4/nginx.vim'
-Plug 'itchyny/lightline.vim'
-
-call plug#end()
